@@ -1,2 +1,2 @@
 # Organizacion-de-Correo
-6 carpetas y etiquetas visuales, 5 plantillas de respuesta (pedidos, consultas, envíos, proveedores en ly reclamos), para responder en minutos ugar de redactar desde cero. Filtros automáticos, que clasifican los correos por ti. Una guía de mantenimiento, para que el orden se mantenga en el tiempo.
+Organizo tu correo para que no se pierdan mensajes importantes ni pedidos. Cada correo llega a su lugar, lo urgente se ve de inmediato y tienes respuestas listas para atender a clientes y proveedores en minutos. Así ahorras tiempo, respondes a tiempo y proyectas una imagen más profesional.
